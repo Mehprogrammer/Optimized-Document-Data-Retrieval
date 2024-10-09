@@ -16,12 +16,6 @@ Team 2 - Worked on Task 2
 - Junaid
 - Talal
   
-
-
-# Code execution guide
-- The four main files must be run via python3 <the_file_name> <port_key>
-
-Example: running task1_build.py where the port key for my database is 27017 -> the command in the terminal would be: "python3 task1_build.py 27017".
 ## Overview
 This project demonstrates the use of indexing and data embedding techniques in MongoDB to optimize the performance of database queries. It provides insights into how different data models (normalized vs. embedded) and indexing strategies affect query execution times, especially in the context of large datasets.
 
