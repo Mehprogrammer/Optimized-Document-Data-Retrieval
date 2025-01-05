@@ -1,9 +1,4 @@
 # Optimized Document Data Retireval - Winter 2024  
-Group member names and github usernames(3-4 members)  
-  yaqoobi, Mosa Yaqoobi  
-  drae, Drae Yong  
-  talal2, Talal Khan  
-  mjmemon, Junaid Memon
 
 # Group work break-down strategy
 Split into two teams:
@@ -13,7 +8,7 @@ Team 1 - Worked on Task 1
 - Mosa    
 
 Team 2 - Worked on Task 2
-- Junaid
+- Junaid (github: Mehprogrammer)
 - Talal
   
 ## Overview
